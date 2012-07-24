@@ -9,7 +9,6 @@ License
 =======
 [WTFPL][1], although attribution would be nice.
 
-![Screenshot][2]
 
 Overview
 ========
