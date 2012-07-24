@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">Simple Talker</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Simple Talker</string>
+    <string name="default_text">Send some text using the text parameter!</string>
+    <string name="button_text">Play it again, Sam!</string>
+
+</resources>
