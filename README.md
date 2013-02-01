@@ -40,5 +40,5 @@ Arguments:
 
 [1]: http://sam.zoy.org/wtfpl/
 [2]: http://www.youtube.com/watch?v=xc4bI5aBwf4&feature=share&list=PLwCo1rtJj6B9T1MbJKUJ16d0xB6E6o2hE
-[3]: http://github.com/downloads/nolanlawson/SimpleTalker/SimpleTalker-v1.0.apk
+[3]: http://nolanlawson.s3.amazonaws.com/dist/com.nolanlawson.android.simpletalker/release/1.0/Simple-Talker.apk
 [4]: http://developer.android.com/sdk/index.html
